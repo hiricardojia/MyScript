@@ -1,0 +1,1 @@
+del /f /s /q C:\Users\Ricardo\AppData\Roaming\Typora\typora-user-images
