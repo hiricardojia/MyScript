@@ -5,8 +5,8 @@
 >^k::Send {Up}
 >^H::Send {Left}
 >^L::Send {Right}
-LShift & Enter::Send {End}
-~Ctrl & Enter::
+Ctrl & Enter::Send {End}
+~LShift & Enter::
     Send {End}
     Send {Enter}
 return
