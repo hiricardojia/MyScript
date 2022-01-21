@@ -6,9 +6,10 @@
 >^H::Send {Left}
 >^L::Send {Right}
 Ctrl & Enter::Send {End}
-~LShift & Enter::
+LShift & Enter::
     Send {End}
     Send {Enter}
+    Send {LShift}
 return
 ;-------inputmethod switch------------
 
